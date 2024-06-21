@@ -1,5 +1,5 @@
 #Bayer moore algorithm
-#code written by mueed, azam, mohsin, and fallah
+#code written by mueed, azam and fallah
 def preprocess_pattern(pattern):
     """
     Preprocess the pattern to create both bad character and good suffix tables.
